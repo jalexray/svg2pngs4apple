@@ -61,3 +61,11 @@ Example:
 This will create a directory called "PNGs" that has all the files you need.
 
 Done! Enjoy & good luck!
+
+---
+### Authors
+- **Alex Ray** - *Entire Repository* - [jalexray](https://github.com/jalexray)
+
+### License
+
+This project is licensed under the standard MIT License
